@@ -1,4 +1,4 @@
-AI & Data Visualization Project
+iAI & Data Visualization Project
 
 This repository contains multiple small projects and experiments that explore different machine learning models, deep learning architectures, and visualization techniques. Each folder in this repo focuses on a specific topic or model.
 
@@ -64,7 +64,7 @@ pip install -r requirements.txt
 
 Clone this repository:
 
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/saifullah-bot/project.git
 cd your-repo-name
 
 
